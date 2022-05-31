@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="40.431" timestamp="2022-05-31T12:35:49.752226" hostname="LAPTOP-K2OTLR66"><testcase classname="test_e2e.TestProject" name="test_end_to_end" time="40.385" /></testsuite></testsuites>
